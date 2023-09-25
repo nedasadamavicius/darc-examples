@@ -1,0 +1,6 @@
+com\mycompany\weatherapplication\interfaces\DisplayElement.class
+com\mycompany\weatherapplication\interfaces\Observer.class
+com\mycompany\weatherapplication\WeatherData.class
+com\mycompany\weatherapplication\CurrentConditionsDisplay.class
+com\mycompany\weatherapplication\interfaces\Subject.class
+com\mycompany\weatherapplication\WeatherApplication.class
